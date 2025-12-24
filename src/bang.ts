@@ -29,4 +29,29 @@ export const bangs = [
         t: "dchat",
         u: "https://www.duckduckgo.com/?q={{{s}}}&ia=chat&bang=true ",
     },
+    {
+        d: "github.com",
+        t: "gh",
+        u: "https://github.com/search?utf8=%E2%9C%93&q={{{s}}}",
+    },
+    {
+        d: "google.com",
+        t: "gi",
+        u: "https://google.com/search?tbm=isch&q={{{s}}}&tbs=imgo:1",
+    },
+    {
+        d: "www.youtube.com",
+        t: "yt",
+        u: "https://www.youtube.com/results?search_query={{{s}}}",
+    },
+    {
+        d: "www.reddit.com",
+        t: "r",
+        u: "https://www.reddit.com/search?q={{{s}}}",
+    },
+    {
+        d: "x.com",
+        t: "x",
+        u: "https://x.com/search?q={{{s}}}",
+    },
 ];
