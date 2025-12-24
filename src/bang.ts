@@ -122062,4 +122062,22 @@ export const bangs = [
     t: "\u10d0\u10e1\u10e2\u10e0\u10dd",
     u: "http://astronet.ge/?s={{{s}}}",
   },
+  {
+    c: "AI",
+    d: "grok.com",
+    r: 0,
+    s: "Grok Chat",
+    sc: "AI",
+    t: "grok",
+    u: "https://grok.com/?q={{{s}}}",
+  },
+  {
+    c: "AI",
+    d: "chat.mistral.ai",
+    r: 0,
+    s: "Mistral Le Chat",
+    sc: "AI",
+    t: "lechat",
+    u: "https://chat.mistral.ai/chat?q={{{s}}}",
+  },
 ];
