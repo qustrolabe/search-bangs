@@ -54,4 +54,9 @@ export const bangs = [
         t: "x",
         u: "https://x.com/search?q={{{s}}}",
     },
+    {
+        d: "chat.openai.com",
+        t: "gpt",
+        u: "https://chat.openai.com/?prompt={{{s}}}",
+    },
 ];
