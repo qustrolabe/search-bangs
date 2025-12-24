@@ -1,5 +1,5 @@
 {
-  "name": "unduck",
+  "name": "search-bangs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "typescript": "~5.7.2",
-    "vite": "^6.1.0"
+    "@types/serviceworker": "^0.0.170",
+    "typescript": "~5.9.3",
+    "vite": "^7.3.0",
+    "workbox-precaching": "^7.4.0"
   },
   "dependencies": {
-    "vite-plugin-pwa": "^0.21.1"
+    "vite-plugin-pwa": "^1.2.0"
   }
 }
