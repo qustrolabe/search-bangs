@@ -59,4 +59,14 @@ export const bangs = [
         t: "gpt",
         u: "https://chat.openai.com/?prompt={{{s}}}",
     },
+    {
+        d: "Claude",
+        t: "claude",
+        u: "http://claude.ai/new?q={{{s}}}",
+    },
+    {
+        d: "duckduckgo.com",
+        t: "ddg",
+        u: "https://duckduckgo.com/?q={{{s}}}",
+    },
 ];
