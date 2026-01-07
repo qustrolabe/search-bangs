@@ -69,4 +69,9 @@ export const bangs = [
         t: "ddg",
         u: "https://duckduckgo.com/?q={{{s}}}",
     },
+    {
+        d: "google.com",
+        t: "gai",
+        u: "https://www.google.com/search?udm=50&q={{{s}}}",
+    },
 ];
