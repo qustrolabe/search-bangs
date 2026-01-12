@@ -74,4 +74,14 @@ export const bangs = [
         t: "gai",
         u: "https://www.google.com/search?udm=50&q={{{s}}}",
     },
+    {
+        d: "kagi.com",
+        t: "k",
+        u: "https://kagi.com/search?q={{{s}}}",
+    },
+    {
+        d: "kagi.com",
+        t: "ki",
+        u: "https://kagi.com/images?q={{{s}}}",
+    },
 ];
